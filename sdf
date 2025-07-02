@@ -1,0 +1,92 @@
+[33mcommit aa76d8f65c34aabf8ef9e9dd053f69feb42bbde3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: AdriPeMa <tonteria2015@outlook.es>
+Date:   Wed Jul 2 16:10:34 2025 +0200
+
+    Hello Github
+
+[33mcommit 36f044f50c7822daed935fb6dc750c97d52d0f27[m
+Merge: aedb409 3fea124
+Author: AdriPeMa <tonteria2015@outlook.es>
+Date:   Tue Jul 1 15:22:28 2025 +0200
+
+    Login nuevo
+
+[33mcommit aedb409d2f0d6fbd50bdeb535acb90b3da1c7fcc[m
+Author: AdriPeMa <tonteria2015@outlook.es>
+Date:   Tue Jul 1 15:18:07 2025 +0200
+
+    Login in main
+
+[33mcommit 3fea124c066237aabfd8833e344454fa1aaa2581[m
+Author: AdriPeMa <tonteria2015@outlook.es>
+Date:   Tue Jul 1 15:07:56 2025 +0200
+
+    Login v2
+
+[33mcommit 414b16a1ff9cc1ddef68e1a194f1232fc6bb2222[m
+Merge: c439d02 28fe4a9
+Author: AdriPeMa <tonteria2015@outlook.es>
+Date:   Tue Jul 1 15:02:53 2025 +0200
+
+    Correcion conflicto
+
+[33mcommit 28fe4a95aefb03bf67d5f951901c64741e56d4f3[m
+Author: AdriPeMa <tonteria2015@outlook.es>
+Date:   Tue Jul 1 14:57:25 2025 +0200
+
+    Git 3
+
+[33mcommit c439d025d3365699e9b109e001e59791b7b414a7[m
+Author: AdriPeMa <tonteria2015@outlook.es>
+Date:   Tue Jul 1 14:56:28 2025 +0200
+
+    Git 3 Login
+
+[33mcommit fed76aa49656e4858d8ff307a039de2e56bf1865[m
+Merge: 6a6c026 0243228
+Author: AdriPeMa <tonteria2015@outlook.es>
+Date:   Tue Jul 1 14:52:15 2025 +0200
+
+    Merge branch 'main' into login
+
+[33mcommit 02432283ab262aaa87ba60652e0688636805b5d8[m
+Author: AdriPeMa <tonteria2015@outlook.es>
+Date:   Tue Jul 1 14:48:47 2025 +0200
+
+    Git 3 v2
+
+[33mcommit 6a6c02637694243f947c1028c396377b0702ce2c[m
+Author: AdriPeMa <tonteria2015@outlook.es>
+Date:   Tue Jul 1 10:56:17 2025 +0200
+
+    Login
+
+[33mcommit 72c743daf1afb93473db40cf379267f4a9f50cbd[m
+Author: AdriPeMa <tonteria2015@outlook.es>
+Date:   Tue Jul 1 10:46:54 2025 +0200
+
+    Este es mi quinto commit
+
+[33mcommit a8af881e818857d052def55b8cffed714befd472[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m
+Author: AdriPeMa <tonteria2015@outlook.es>
+Date:   Tue Jul 1 09:59:31 2025 +0200
+
+    Se añade el .gitignore
+
+[33mcommit 6f08bf1478c8686d6a7f30d1ffe7121519febb80[m
+Author: AdriPeMa <tonteria2015@outlook.es>
+Date:   Tue Jul 1 09:51:32 2025 +0200
+
+    Se actualiza el texto del print
+
+[33mcommit 146158b5ec98189d2ac32d6cd8bfadc4d78233c9[m
+Author: AdriPeMa <tonteria2015@outlook.es>
+Date:   Tue Jul 1 09:43:21 2025 +0200
+
+    Este es mi segundo commit
+
+[33mcommit f7964fd59d06461129b5fcce2febad89afb9ae53[m
+Author: AdriPeMa <tonteria2015@outlook.es>
+Date:   Tue Jul 1 09:40:00 2025 +0200
+
+    Este es mi primer commit
